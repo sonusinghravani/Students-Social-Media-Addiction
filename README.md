@@ -123,6 +123,7 @@ I cleaned and prepared the data using **Power Query**, created calculated metric
 The dashboard tells a powerful story: **social media is not just entertainment — it’s impacting students’ lives deeply**. And with the right tools, we can help them find balance.
 
 This project reflects my skills in:
+
 ✔️ Data Cleaning & Preparation  
 ✔️ Power BI Dashboard Design  
 ✔️ Interactive Features (Drill-Through)  
