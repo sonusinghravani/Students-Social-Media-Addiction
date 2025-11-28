@@ -140,6 +140,8 @@ All under the guidance of **Career247 Institute** — where I’m learning to co
 **Skills:** Power BI, Power Query, DAX, Data Visualization, Drill-Through, Generative AI Basics  
 **Goal:** To build smart, human-centered dashboards that help people make better decisions — especially in education and mental health.
 
+## Dashboard Previews
+
 1.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/1.%20Overview.png
 2.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/2.%20Mental%20health.png
 3.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/3.Academic%20impact.png
