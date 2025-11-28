@@ -1,7 +1,7 @@
 # 📱 Students Social Media Addiction Dashboard
 
 **Made by:** Sonu Kumar  
-**Trained at:** Career247 with Generative AI  
+**Trained at:** Career247 
 **Date:** November 28, 2025
 
 ---
@@ -139,4 +139,14 @@ All under the guidance of **Career247 Institute** — where I’m learning to co
 **Name:** Sonu Kumar  
 **Skills:** Power BI, Power Query, DAX, Data Visualization, Drill-Through, Generative AI Basics  
 **Goal:** To build smart, human-centered dashboards that help people make better decisions — especially in education and mental health.
+
+1.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/1.%20Overview.png
+2.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/2.%20Mental%20health.png
+3.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/3.Academic%20impact.png
+4.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/4.%20Relationship%20and%20conflict.png
+5.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/5.Interactive%20Story.png
+6.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/6.Drill%20Through.png
+7.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/7.Student%20Id.png
+8.	https://github.com/sonusinghravani/Students-Social-Media-Addiction/blob/main/8.%20Interactivity%20and%20storytelling.png
+
 
